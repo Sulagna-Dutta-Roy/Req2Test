@@ -36,3 +36,20 @@ It is designed for hackathons, QA teams, and enterprises looking to **speed up t
 ```bash
 git clone https://github.com/<your-username>/req2test.git
 cd req2test
+```
+### 2. Activate the Venv
+```  Do this
+python -m venv .venv
+.venv\Scripts\activate
+```
+### 3. Install Dependencies
+```
+python -m pip install -r requirements.txt
+```
+
+### 4. Run this command
+```
+python -m streamlit run app.py
+```
+
+Licensed: Under MIT 2025
