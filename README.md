@@ -1,4 +1,5 @@
 # 🧪 Req2Test — AI-powered Test Case Generator
+<img width="1899" height="877" alt="Screenshot 2025-09-19 015755" src="https://github.com/user-attachments/assets/2fcd0cc9-ad81-4fbd-94bc-4b85cfa9e307" />
 
 ## 🚀 Overview
 Req2Test is an AI-powered prototype that converts **software requirements** into **traceable test cases** automatically.
